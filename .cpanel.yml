@@ -1,0 +1,6 @@
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pbhabths/public_html/
+    - /bin/cp -R * $DEPLOYPATH

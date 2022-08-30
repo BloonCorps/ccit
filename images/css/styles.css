@@ -48,6 +48,6 @@ body {
 
 #mybutton {
   position: fixed;
-  bottom: -4px;
+  bottom: 0px;
   right: 10px;
 }

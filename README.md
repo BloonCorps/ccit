@@ -1,1 +1,1 @@
-## PBHA – Chinatown Citizenship
+## PBHA Chinatown Citizenship
